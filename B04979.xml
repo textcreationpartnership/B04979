@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Representation for the traders in the native commodities of the kingdom and retailers of forraign commodities, bought from freemen, burgesses or royal-burghs.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04979</idno><idno type="EEBO-CITATION">52614886</idno>
+  <idno type="VID">176038</idno>
+  <idno type="EEBO-PROQUEST">2248532116</idno>
+  
+            <idno type="STC">Wing R1099B</idno>
+            <idno type="STC">ESTC R182672</idno>
+            <idno type="OCLC">52614886</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04979)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176038)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2760:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Representation for the traders in the native commodities of the kingdom and retailers of forraign commodities, bought from freemen, burgesses or royal-burghs.</title>
+               </titleStmt>
+               <extent>p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  Commerce --  Law and legislation --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:176038:1"/>
+            <head>REPRESENTATION <hi>For the Traders in the Native Commodi<g ref="char:EOLhyphen"/>ties of the Kingdom and Retailers of for<g ref="char:EOLhyphen"/>raign Commodities, bought from Free<g ref="char:EOLhyphen"/>men, Burgesses of</hi> Royal-Burghs.</head>
+            <p>WHereas the saids Tradesmen and Retailers are daily troubled and di<g ref="char:EOLhyphen"/>strest, at the instance of the Royal Burrows, and Mr. <hi>John Buchan</hi> their Agent, for relieving the Royal Burrows of a Proportion of their sixt part of the Cess of the Kingdom, and which is alledged to be imposed on the said Traders and Retailers, by the Act of Parliament 1693, <hi>For Communica<g ref="char:EOLhyphen"/>tion of Trade;</hi> in so far as the said Act prohibites and discharges any Trade whatsoever without an Agreement with Mr. <hi>John Buchan.</hi>
+            </p>
+            <p>It is now represented to his Grace and the honourable Estates of Parlia<g ref="char:EOLhyphen"/>ment, that these Words in the Act can only be extended to the Trade which Mr. <hi>Buchan</hi> by his agreement was to communicat; For the Act being a Ra<g ref="char:EOLhyphen"/>tification of a Contract betwixt the Burrows and their Agent: By which Con<g ref="char:EOLhyphen"/>tract it was agreed, that Mr. <hi>Buchan</hi> should communicat the Trade then peculiar to the Burghs, to be thereafter practised by all who should agree. As that Contract did no ways impare, nor derogat from the proper uncontraverted Right of the haill Inhabitants of the Kingdom to exerce their several Trades, and to buy and sell the native Commodities of the Kingdom, and retail For<g ref="char:EOLhyphen"/>raign Commodities bought from Free-men Burgesses of Royal Burghs, secu<g ref="char:EOLhyphen"/>red to them by several Acts of Parliament, particularly 1672, 1690, which rescind all former Laws inconsistent therewith, So the Act ratifying the said Contract, is of no furder extent, and is so far from rescinding these for<g ref="char:EOLhyphen"/>mer Laws, either expresly, or by Consequence, that it Relates to, con<g ref="char:EOLhyphen"/>firms, and ordains the same to be put in Execution: And therefore it is clear as the Sun, that no person can be lyable to <hi>Buchans</hi> Exactions but these who either accepted of the Communication, or incroached upon the Trade secu<g ref="char:EOLhyphen"/>red to the Royal Burghs.</p>
+            <p>And to evince to your Grace and Lordships, that the Burghs and Mr. <hi>Buchan</hi> understood nothing else by the Act of Parliament 1693: (whatsoe<g ref="char:EOLhyphen"/>ver they now pretend) there was an Act offered to the parliament 1695. by <hi>Buchan</hi> for putting anecessity upon the Inhabitants of the King dom to accept of the said Communication, and to discharge all who did not accept to use any Trade; and for that effect to rescind the former Laws: Which Act after it had past the Committee of Trade upon a Representation given in against the same, shewing the Inconveniency thereof, was withdrawn
+<pb n="2" facs="tcp:176038:2"/>by <hi>Buchan</hi> and never again offered, and of which Act there is herewith a double put in the Clerks hands: So that it is unquestionably plain, that the parliament never intended to infringe the priviledge of Trading in the native Commodities, and Retailing what was bought from Burgesses of Royal Burghs But meerly to discharge any unfree person to exerce the Trade secured to the Burrows, unless they first agreed, and if they pleased to forbear using that Trade, there was no necessity put upon them to accept the Communication.</p>
+            <p>As to the Burghs of Barrony &amp; Regality who accept of a Communication, there is no reason these should be lyable for so much as a Tenth Part of the Burrows Cess. For 1. These Accepters have not the sixtieth Part of the Trade of the Burghs. 2. Their Heretage and Possessions are also valued, and a Cess payed with the rest of the Shire, conform to their Valuation, where<g ref="char:EOLhyphen"/>as there is no Valuation of the Rents of the Tenements, Houses, Yards and Aikers belonging to the Burrows; And in effect the Cess payable by the Burrows, tho its pretended to be for their Trade, is no more but a <hi>quota</hi> ef<g ref="char:EOLhyphen"/>firing to what they would be abliged to pay if they were valued, and whatever Agreement Mr. <hi>Buchan</hi> made with the Burrows for relieving them of a tenth part of their Taxt-roll, yet the Countrey can be no farder lyable to him than as they agreed for the Communication or practised the Trade proper for him to Communicat.</p>
+            <p>And for preventing of all further Debate and Expenses in this matter, it is humbly proposed, that the Act explanatory of the foresaid Act for Com<g ref="char:EOLhyphen"/>munication which was given in and read last Session of Parliament, and since that time been still on the Table, may be now past with such Alterations as shall be thought reasonable.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
